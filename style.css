@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #f0f8ff;
+}
+input{
+    margin: 10px;
+}
+label{
+    margin-top: 20px;
+}
+p{
+    color: black
+}
+svg{
+    border-width: 2px;
+    border-radius: 20px;
+    border-color: #f0f0f0;
+    border-style: solid;
+    padding: 10px;
+    margin: 30px;
+    background-color: white;
+}
